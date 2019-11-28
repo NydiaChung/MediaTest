@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MediaTest</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="replay">replay</string>
+    <string name="choose">choose</string>
+    <string name="record">record</string>
+</resources>
